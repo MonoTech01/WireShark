@@ -49,3 +49,8 @@ Investigate Frame Check Sequence (FCS) errors, which might signify faulty networ
 Additional Points:
 
 Packet loss can also be caused by network congestion.
+
+# Note
+Effectively troubleshooting slow applications requires analyzing Wireshark data alongside user reports and other network metrics.
+
+This guide provides a starting point for using Wireshark to diagnose application performance issues.
